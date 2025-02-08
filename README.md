@@ -8,8 +8,8 @@
    * Skype     --> live:.cid.20a5a86903c9a0fd
    * LinkdIn   --> https://www.linkedin.com/in/sayyid-mohammad-hoseini-7b364b262/
    * Fiverr    --> http://www.fiverr.com/s/jj5xmwm
-   * Phone     -->+60 196856824
-   * Phone     -->+98 9183630165
+   * Phone     -->+6 019 685 6824
+   * Phone     -->+98 918 363 0165
 
 <!---
 mhoseinikh/mhoseinikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
