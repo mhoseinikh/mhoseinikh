@@ -3,7 +3,7 @@ Passionate Senior SQL Server DBA with 20+ years of experience in performance tun
    * Instagram --> sm.hoseinikh
    * Telegram  --> @smhoseinikh
    * Teams     --> live:.cid.20a5a86903c9a0fd
-   * LinkdIn   --> https://www.linkedin.com/in/sayyid-mohammad-hoseini-7b364b262/
+   * LinkedIn  --> https://www.linkedin.com/in/sayyid-mohammad-hoseini-7b364b262/
    * Phone     -->+98 918 363 0165
 
 <!---
