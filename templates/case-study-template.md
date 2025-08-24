@@ -37,7 +37,15 @@ This screenshot shows both **before** and **after** execution times in a single 
 
 ---
 
-## 5) Performance Comparison
+## 5) Results
+- Duration: <ms>
+- CPU: <ms>
+- Logical Reads: <n>
+- Spills/TempDB: <n / none>
+
+---
+
+## 6) Performance Comparison
 | Metric        | Before       | After   | Improvement |
 |---------------|-------------:|--------:|------------:|
 | Duration      | 299,405 ms   | 6,192 ms | 97.9% ↓ |
@@ -46,17 +54,9 @@ This screenshot shows both **before** and **after** execution times in a single 
 
 ---
 
-## 6) Change Applied
+## 7) Change Applied
 - Action taken: <created index, updated statistics, query rewrite, OPTION(RECOMPILE), etc.>
 - Reasoning: <why this change was selected, expected impact>
-
----
-
-## 7) Results
-- Duration: <ms>
-- CPU: <ms>
-- Logical Reads: <n>
-- Spills/TempDB: <n / none>
 
 ### Before vs After Comparison
 | Before | After |
