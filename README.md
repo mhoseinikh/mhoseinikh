@@ -8,7 +8,7 @@
 🔧 Skilled in:  
 - **Databases:** SQL Server | Oracle | MySQL  
 - **Data Pipelines:** ETL, Data Migration, Automation  
-- **Programming:** Python, T-SQL, PL/SQL  
+- **Programming:** T-SQL, PL/SQL, Python
 
 🚀 I enjoy building **efficient, reliable, and business-driven solutions** that make data work smarter.  
 
