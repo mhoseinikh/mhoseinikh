@@ -16,6 +16,7 @@
 
 📫 **Connect with me**  
 - [LinkedIn](https://www.linkedin.com/in/sm-hoseini/)  
+- EMail: `info@smhoseini.ir`  
 - Instagram: `sm.hoseinikh`  
 - Telegram: `@smhoseinikh`  
 - Microsoft Teams: `live:.cid.20a5a86903c9a0fd`  
